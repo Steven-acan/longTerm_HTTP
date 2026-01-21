@@ -1,4 +1,5 @@
-HEAD  https://www.google.com HTTP/1.1
+GET  /index.html HTTP/1.1
+Host: www.baidu.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/
 
 Hello this is Steven90.0.4430.93 Safari/537.36
